@@ -1,4 +1,6 @@
 [package]
+description = "ternary-fence - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-fence"
 name = "ternary-fence"
 version = "0.1.0"
 edition = "2024"
